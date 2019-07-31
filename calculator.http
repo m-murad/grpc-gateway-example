@@ -1,0 +1,10 @@
+###
+POST http://0.0.0.0:8081/api/v1/calculator/sum
+Content-Type: application/json
+
+{
+  "number1": 5,
+  "number2": 7
+}
+
+###
